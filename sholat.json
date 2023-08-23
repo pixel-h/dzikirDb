@@ -1,0 +1,16 @@
+[
+  {
+    "JUDUL": "Header 1",
+    "HAL": [
+      ["arabic","latin","terjemah","penjelasan"],
+      ["arabic","latin","terjemah","penjelasan"]   
+    ]
+  },
+  {
+    "JUDUL": "Header 2",
+    "HAL": [
+      ["arabic","latin","terjemah","penjelasan"],
+      ["arabic","latin","terjemah","penjelasan"]   
+    ]
+  }
+]
