@@ -9,7 +9,7 @@
 	{
 		"JUDUL": "Al-Ikhlas",
 		"KALI": "Di baca 3 kali",
-		"ARAB": "basmalah\nقُلۡ هُوَ ٱللَّهُ أَحَدٌ ١ ٱللَّهُ ٱلصَّمَدُ ٢ لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣ وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ ٤ ",
+		"ARAB": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ\nقُلۡ هُوَ ٱللَّهُ أَحَدٌ ١ ٱللَّهُ ٱلصَّمَدُ ٢ لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣ وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ ٤ ",
 		"LATIN": "Bismillahir rahmanir rahiim • Qul huwallahu ahad' • Allaahusshomad' • Lam yalid' wa lam yuulad' • Wa lam yakullahuu kufuwan ahad'",
 		"ARTI": "<p><strong>Dengan nama Allah Yang Maha Pemurah lagi Maha Penyayang</strong><br /><strong>(1)</strong> Katakanlah: Dialah Allah Yang Maha Esa.<br /><strong>(2)</strong> Allah adalah Ilah yang bergantung kepadaNya segala urusan.<br /><strong>(3)</strong> Dia tidak beranak dan tiada pula diperanakkan.<br /><strong>(4)</strong> Dan tidak ada seorang pun yang setara dengan Dia.<br /><strong>Surah Al-Ikhlas: 1-4</strong></p>",
 		"SUMBER": "<p>Barangsiapa membaca tiga surat tersebut (surat Al-Ikhlas, Al-Falaq dan An-Naas, ketiganya dinamakan Al-Mu'awwidzaat) sebanyak 3x setiap pagi dan sore hari, maka itu (tiga surat tersebut) cukup baginya dari segala sesuatu (Yaitu melindunginya dari segala bentuk bahaya dengan izin Allah)<br /><strong>HR. Abu Dawud 4:322</strong><br /><strong>At-Tirmidzi 5:567</strong><br /><strong>Shahih At-Tirmidzi 3:182</strong></p>"
@@ -17,7 +17,7 @@
 	{
 		"JUDUL": "Al-Falaq",
 		"KALI": "Di baca 3 kali",
-		"ARAB": "قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ ١ مِن شَرِّ مَا خَلَقَ ٢ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ٣ وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ ٤ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ٥ ",
+		"ARAB": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ\nقُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ ١ مِن شَرِّ مَا خَلَقَ ٢ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ٣ وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ ٤ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ٥ ",
 		"LATIN": "Bismillahir rahmanir rahiim • Qul a'udzu birobbil falaq' • Miņ syarri maa khlolaq' • Wa miņ syarri ghoo siqin idzaa waqob' • Wa miņ syarrinnaffatsaati fil 'uqod' • Wa miņ syarrihaa sidin idzaa hasad'",
 		"ARTI": "<p><strong>Dengan nama Allah Yang Maha Pemurah lagi Maha Penyayang</strong><br /><strong>(1)</strong> Katakanlah: Aku berlindung kepada Rabb yang menguasai Subuh.<br /><strong>(2)</strong> Dari kejahatan makhlukNya.<br /><strong>(3)</strong> Dan dari kejahatan malam apabila telah gelap gulita.<br /><strong>(4)</strong> Dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul.<br /><strong>(5)</strong> Dan dari kejahatan orang yang dengki apabila ia dengki<br /><strong>Surah Al-Falaq: 1-5</strong></p>",
 		"SUMBER": "<p>Barangsiapa membaca tiga surat tersebut (surat Al-Ikhlas, Al-Falaq dan An-Naas, ketiganya dinamakan Al-Mu'awwidzaat) sebanyak 3x setiap pagi dan sore hari, maka itu (tiga surat tersebut) cukup baginya dari segala sesuatu (Yaitu melindunginya dari segala bentuk bahaya dengan izin Allah)<br /><strong>HR. Abu Dawud 4:322</strong><br /><strong>At-Tirmidzi 5:567</strong><br /><strong>Shahih At-Tirmidzi 3:182</strong></p>"
@@ -25,7 +25,7 @@
 	{
 		"JUDUL": "An-Naas",
 		"KALI": "Di baca 3 kali",
-		"ARAB": "قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ ١ مَلِكِ ٱلنَّاسِ ٢ إِلَٰهِ ٱلنَّاسِ ٣ مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ ٤ ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ ٥ مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ ٦",
+		"ARAB": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ\nقُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ ١ مَلِكِ ٱلنَّاسِ ٢ إِلَٰهِ ٱلنَّاسِ ٣ مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ ٤ ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ ٥ مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ ٦",
 		"LATIN": "Bismillahir rahmanir rahiim • Qul a'uudzu bi robbinnaas • Malikinnaas • Ilaahinnaas • Miņ syarril was waasil khonnaas • Alladzii yuwas wisu fii shuduu rinnaas • Minal jinnati wannaas",
 		"ARTI": "<p><strong>Dengan nama Allah Yang Maha Pemurah lagi Maha Penyayang</strong><br /><strong>(1)</strong> Katakanlah: Aku berlindung kepada Rabb manusia.<br /><strong>(2)</strong> Raja manusia.<br /><strong>(3)</strong> Sembahan manusia.<br /><strong>(4)</strong> Dari kejahatan (bisikan) syaitan yang biasa bersembunyi.<br /><strong>(5)</strong> Yang membisikkan (kejahatan) ke dalam dada manusia.<br /><strong>(6)</strong> Dari jin dan manusia.<br /><strong>Surah An-Naas: 1-6</strong></p>",
 		"SUMBER": "<p>Barangsiapa membaca tiga surat tersebut (surat Al-Ikhlas, Al-Falaq dan An-Naas, ketiganya dinamakan Al-Mu'awwidzaat) sebanyak 3x setiap pagi dan sore hari, maka itu (tiga surat tersebut) cukup baginya dari segala sesuatu (Yaitu melindunginya dari segala bentuk bahaya dengan izin Allah)<br /><strong>HR. Abu Dawud 4:322</strong><br /><strong>At-Tirmidzi 5:567</strong><br /><strong>Shahih At-Tirmidzi 3:182</strong></p>"
