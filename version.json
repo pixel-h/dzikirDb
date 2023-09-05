@@ -4,5 +4,5 @@
   "dzikirsorecounter": "2,3,4,8,11,12,15,16,17,18,19",
   "dzikirpagimax": "0,0,3,3,3,0,0,0,3,0,0,3,3,0,0,100,3,0,100,100",
   "dzikirsoremax": "0,0,3,3,3,0,0,0,3,0,0,3,3,0,0,100,3,100,100,3",
-  "whatsnew": "Versi 2.0\n• Bisa mengupdate isi dzikir dan doa melalui tombol \"cek database\" di menu halaman informasi di menu setelan"
+  "changelog": "Versi 23.09.03\n• Tambahan Zikir setelah salam sholat witir.\nVersi 23.09.01\n• Perbaikan beberapa dalil pada zikir pagi petang."
 }
